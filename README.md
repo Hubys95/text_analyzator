@@ -1,4 +1,4 @@
 # text_analyzator
 Ahoj, posílám vypracovaný první projekt.
-Za případný feedback budu určitě rád. :)
+Za feedback budu určitě rád. :)
 Honza
